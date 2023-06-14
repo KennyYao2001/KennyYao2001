@@ -9,13 +9,11 @@ I'm a **Data science major** undergraduate from **the Chinese University of Hong
 
 - 🌱 I’m currently learning robotics, LLM, 6d pose estimation and 3d reconstrcution  
   
+<br>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=KennyYao2001&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=KennyYao2001&show_icons=true&count_private=true&theme=transparent" align="left" />  
 
 <br/>   
-<br>
-<br>
 <br>
 <br>
 <br>

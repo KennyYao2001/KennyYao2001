@@ -10,7 +10,18 @@ I'm a **Data science major** undergraduate from **the Chinese University of Hong
 - 🌱 I’m currently learning robotics, LLM, 6d pose estimation and 3d reconstrcution  
   
 
-<br/>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=KennyYao2001&show_icons=true&count_private=true&hide_border=true&theme=transparent" align="left" />  
+
+<br/>   
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Please feel free to contact me: kelingyao@link.cuhk.edu.cn  
   
@@ -25,24 +36,11 @@ Please feel free to contact me: kelingyao@link.cuhk.edu.cn
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
 <br/>  
 
+## <div align="left">My Skill Set</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KennyYao2001&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-
-
-<br/>  
-
-
-
-
-
-
-
-## My Skill Set  
-<div align="center">  
+<div align="left"> 
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
@@ -65,5 +63,3 @@ Please feel free to contact me: kelingyao@link.cuhk.edu.cn
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

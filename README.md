@@ -4,10 +4,10 @@
 I'm a **Data science major** undergraduate from **the Chinese University of Hong Kong, Shenzhen**  
   
 
-- 🔭 I’m currently working at Berkeley OpenARK Lab  
+- 🔭 I’m currently working at Berkeley OpenARK Lab and MSRA robotics
   
 
-- 🌱 I’m currently learning robotics, LLM, 6d pose estimation and 3d reconstrcution  
+- 🌱 I’m currently learning robotics, LLM, 6D pose estimation, and 3d reconstruction  
   
 <br>
 

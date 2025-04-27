@@ -1,13 +1,13 @@
 ### Hi there <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" alt="GIF示例" style="width: auto; height: 1em;">, I'm *Kenny YAO*  
   
 
-I'm a **Data science major** undergraduate from **the Chinese University of Hong Kong, Shenzhen**  
+I'm a **Computer Science (AI/Computer Vision) major** master student from **Carnegie Mellon University**  
   
 
-- 🔭 I’m currently working at Berkeley OpenARK Lab and MSRA robotics
+- 🔭 I’m currently working on CMU Aart Lab and I previously working at Berkeley OpenARK Lab and MSRA robotics
   
 
-- 🌱 I’m currently learning robotics, LLM, 6D pose estimation, and 3d reconstruction  
+- 🌱 I’m currently learning robotics, Large Vision Language Model, LLM, Generaive models
   
 <br>
 
